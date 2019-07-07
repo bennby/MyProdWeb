@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "119,57",
+                        "endColumns": "46,60",
+                        "endOffsets": "161,113"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,60",
+                        "endOffsets": "97,158"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "163,454",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "449,609"
+                    }
+                }
+            ]
+        }
+    ]
+}

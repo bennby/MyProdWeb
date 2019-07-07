@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:13:22-64
+application
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:15:5-59:19
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:16:9-38
+	android:theme
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:18:9-51
+activity#com.example.myprodWeb.LoginActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:20:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.myprodWeb.RegisterActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:30:13-34
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:29:13-66
+activity#com.example.myprodWeb.BirthdayActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:32:19-72
+activity#com.example.myprodWeb.ProdispActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:34:9-35:20
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:34:19-71
+activity#com.example.myprodWeb.DisplayActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:37:13-65
+activity#com.example.myprodWeb.MainActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:40:19-68
+activity#com.example.myprodWeb.CameraActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:44:13-34
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:43:13-64
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:45:13-49:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:46:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:48:27-73
+activity#com.example.myprodWeb.SecurityActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:53:13-33
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:52:13-66
+activity#com.example.myprodWeb.SecondActivity
+ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:57:13-34
+	android:name
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml:56:13-64
+uses-sdk
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		ADDED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\shizhanxiangmu\MyProdWeb\MyProdWeb\src\main\AndroidManifest.xml

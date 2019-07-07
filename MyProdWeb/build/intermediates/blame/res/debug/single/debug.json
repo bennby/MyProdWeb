@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_display.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dddss.jpg.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\drawable-hdpi\\dddss.jpg"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_prodisplay.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_prodisplay.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_security.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_security.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_birthday.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_birthday.xml"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]

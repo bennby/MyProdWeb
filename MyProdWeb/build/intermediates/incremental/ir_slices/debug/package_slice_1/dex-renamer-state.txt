@@ -1,0 +1,4 @@
+#Sat Jul 06 20:58:14 CST 2019
+base.0=D\:\\Android\\shizhanxiangmu\\MyProdWeb\\MyProdWeb\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

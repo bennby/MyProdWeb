@@ -1,0 +1,86 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/homeBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="返回桌面" />
+
+        <Button
+            android:id="@+id/urlBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="娴忚缃戝潃" />
+
+        <Button
+            android:id="@+id/sendSmsBtm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="发信息" />
+
+        <Button
+            android:id="@+id/dialViewBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="打电话" />
+
+        <Button
+            android:id="@+id/dialBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="直接打电话" />
+        
+        <Button
+            android:id="@+id/jumpBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="第二个Activity" />
+
+        <Button
+            android:id="@+id/openCameraBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="照相机" />
+
+        <Button
+            android:id="@+id/ProdActivityBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="商品添加" />
+
+        <Button
+            android:id="@+id/btnBackATTEN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="备份联系人" />
+
+        <Button
+            android:id="@+id/btnBackSMS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="备份短信" />
+
+        <Button
+            android:id="@+id/btnGetATTEN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="还原联系人" />
+
+        <Button
+            android:id="@+id/btnGetSMS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="还原短信" />
+    </LinearLayout>
+
+</ScrollView>
